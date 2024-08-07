@@ -1,0 +1,2 @@
+# Vintage-Photo-Restoration-Using-Traditional-Image-Processing-Techniques
+Restoration of vintage images poses significant challenges in image processing due to the continuous occurrence of physical degradation over time. This project aims to create a processing pipeline that employs traditional image processing techniques to recover and preserve the historical and sentimental value of vintage images.
